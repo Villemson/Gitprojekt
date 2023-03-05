@@ -1,5 +1,5 @@
 <!-- From Uus-Branch -->
 
 Tere
-Liigume Edasi Täna 
+Liigume Edasi Täna Püha
 # Gitprojekt
