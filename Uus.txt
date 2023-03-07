@@ -1,1 +1,2 @@
 Uus nädal
+Commit
