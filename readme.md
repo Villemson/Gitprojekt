@@ -13,3 +13,5 @@ muudatus
 muudatus 1.3
 muudatus 1.4
 muudatus 1.5
+muudatus 1.6
+
