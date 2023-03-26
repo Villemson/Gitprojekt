@@ -17,3 +17,4 @@ muudatus 1.6
 
 Muudatus 2.0
 Muudatus 2.1
+Muudatus 2.2
